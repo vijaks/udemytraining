@@ -1,0 +1,2 @@
+# udemytraining
+Learning git
